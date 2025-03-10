@@ -53,6 +53,7 @@
 
 ---
 ⭐️ From [HigorG26](https://github.com/HigorG26)
-<h2 style="font-family: monospace;">⟨ I know what I am doing...</bold>⟩</h2>
-
+<div align="right">
+  <h4 style="font-family: monospace;">⟨ I know what I am doing...</bold>⟩</h4>
+</div>
 ###
