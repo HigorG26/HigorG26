@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Higor and I'm a fullstack developer, from Brazil.</h2>
+<h2 align="left">What are you doing, <bold>Higor ?</bold></h2>
 
 ###
 
