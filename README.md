@@ -1,18 +1,6 @@
-<style>
-    @keyframes blink {
-      0% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    
-    .blink {
-      animation: blink 1s infinite;
-    }
-</style>
-
 <br clear="both">
   
-<h2 align="center" style="font-family: monospace;"><span class="blink"><</span> What are you doing, <bold>Higor? </bold><span class="blink">></span></h2>
+<h2 align="center" style="font-family: monospace;">⟨ What are you doing, <bold>Higor? </bold>⟩</h2>
 
 
 ###
