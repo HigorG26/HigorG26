@@ -52,10 +52,9 @@
 </div>
 
 ---
-⭐️ From [HigorG26](https://github.com/HigorG26)
+<div align="right">
+  <img src="https://media.tenor.com/1MFEcgJWwlMAAAAj/vault-boy.gif" alt="Vault Boy GIF" width="100">
+</div>
 <div align="right">
   <h4 style="font-family: monospace;">⟨ I know what I am doing...</bold>⟩</h4>
-</div>
-<div align="center">
-  <img src="https://media.tenor.com/1MFEcgJWwlMAAAAj/vault-boy.gif" alt="Vault Boy GIF" width="100">
 </div>
