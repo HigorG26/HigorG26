@@ -1,6 +1,6 @@
 <div align="center">
 
-# Higor Gabriel Ferreira Silva
+# Higor Silva
 
 **Systems Analyst · Offensive Security & Secure Development**
 
@@ -109,8 +109,6 @@ I also use LLMs (Claude) as part of my workflow — code triage, findings review
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HigorG26&layout=compact&langs_count=6&card_width=340&theme=dark&hide_border=true" height="150" alt="Top languages" />
 
 **Open to security opportunities — Brazil and international.**
 
