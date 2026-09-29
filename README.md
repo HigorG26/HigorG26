@@ -20,7 +20,7 @@ Four years of back-end and full stack development (C#/.NET, SQL Server, REST API
 Currently completing a postgraduate program in **Cybersecurity** at IDESP / Instituto Daryus, preparing for **OSCP**, and open to security roles internationally.
 
 ```
-Focus      →  Web, infrastructure & mobile penetration testing
+Focus      →  Web, infrastructure & penetration testing
 Building   →  VulnScan Toolkit — modular scanner orchestrator in Python
 Learning   →  OSCP path · Active Directory · cloud security
 Languages  →  Portuguese (native) · English (C1) · Spanish (B2)
@@ -61,10 +61,6 @@ A containerized, modular orchestrator for web vulnerability scanning that unifie
 </p>
 
 **Web & infrastructure** — OWASP Top 10 in practice: SQL Injection, XSS (reflected, stored, DOM), CSRF, XXE, IDOR, file upload/inclusion, broken access control · full cycle from reconnaissance and enumeration through exploitation and reporting
-
-**Mobile (Android)** — static and dynamic analysis: APK decompilation, endpoint and cached-data mapping, hardcoded secret discovery, runtime traffic manipulation
-
-**OSINT & forensics** — metadata and GPS extraction, breach-index research, evidence consolidation
 
 **Secure development** — SDLC practices, application hardening, access control with JWT/OAuth and Azure AD
 
